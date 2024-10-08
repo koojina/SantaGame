@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GF20191091-DESKTOP-B5HG2PR.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PauseState.cpp
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\PauseState.cpp(1,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\SDLGameObject.h(1,1): warning C4819:  현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\Vector2D.h(25,33): warning C4244:  'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\PauseState.cpp(16,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\PauseState.cpp(23,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\PauseState.cpp(54,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  GF20191091.vcxproj -> C:\Users\kooja\OneDrive\문서\GitHub\gf-finalterm-koojina\GF20191091\Debug\GF20191091.exe
